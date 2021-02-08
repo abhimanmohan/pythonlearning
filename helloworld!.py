@@ -26,3 +26,10 @@ print(parrot[4])
 print(parrot[6])
 print(parrot[7])
 print(parrot[8])
+
+#12345678910 11 12 13 14 15 
+ans="abcdefghijklmnopqurstvwxyz"
+print(ans[-10:-13:-1])
+print(ans[-22::-1])
+print(ans[-1:-9:-1])
+
